@@ -26,7 +26,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Everyone","Moderate U","github.com/nightymoon"];
+const statusMessages = ["Watching ӨMΣGΛ"];
 
 
 let currentIndex = 0;
